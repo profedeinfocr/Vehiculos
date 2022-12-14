@@ -42,7 +42,7 @@
             <asp:TextBox ID="Temail" runat="server"></asp:TextBox>
             <br />
             Clave<br />
-            <asp:TextBox ID="Tclave" runat="server" OnTextChanged="Tclave_TextChanged"></asp:TextBox>
+            <asp:TextBox ID="Tclave" runat="server" ></asp:TextBox>
             <br />
             <br />
             <br />
